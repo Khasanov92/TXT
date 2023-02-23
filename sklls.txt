@@ -1,0 +1,15 @@
+ Скиллы на курсе
+ 1 Testing teory
+ 2 Client server-architecture
+ 3 Rest Api Postman
+ 4 Jmetr
+   "Stress testing"
+   "Sniffing Trafic"
+ 5 Terminal Linux
+  "Git bash"
+  "What is Git repository"
+  "Git branch"
+  "Basic command in the terminal"
+ 6 Android studio
+ 7 Devtools
+  "HTML XML CSS"
