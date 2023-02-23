@@ -1,0 +1,6 @@
+
+ 1 First name: Alik
+ 2 Last name: Khasanov
+ 3 Age: 30
+ 4 My pets: 0
+ 5 Id like to salary: 1000$
